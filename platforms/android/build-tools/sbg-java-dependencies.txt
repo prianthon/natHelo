@@ -1,0 +1,9 @@
+/Users/prianthon/Library/Android/sdk/platforms/android-22/android.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/0/classes.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/6/support-annotations-22.2.1.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/1/classes.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/4/classes.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/3/classes.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/3/libs/internal_impl-22.2.1.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/2/classes.jar
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/build/exploded-dependencies/5/classes.jar

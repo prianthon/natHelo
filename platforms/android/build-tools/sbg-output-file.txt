@@ -1,0 +1,1 @@
+/Users/prianthon/Documents/nativescript/HelloWorld/platforms/android/app/src/main/java

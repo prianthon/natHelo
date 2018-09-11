@@ -1,0 +1,13 @@
+@import "~nativescript-theme-core/css/core.light.css";
+
+/* Your CSS goes here */
+.action-bar {
+  background-color: #E91E63;
+  color: #FFFFFF;
+}
+label {
+  font-size: 24;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: center;
+}
