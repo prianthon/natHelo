@@ -1,7 +1,9 @@
-exports.pageLoaded = function() {
-  console.dir({
-    'nama' : 'kang anton',
-    'hobi' : 'jalan jalan',
-    'warna' : 'pink'
-  });
+exports.pageLoaded = function(args) {
+  let data = {
+    firstname : "Kang",
+    lastname : "Anton"
+  };
+
+  let page = args.object;
+  page.bindingContext = data;
 };

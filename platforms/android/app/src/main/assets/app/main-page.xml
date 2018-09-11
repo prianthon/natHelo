@@ -1,5 +1,6 @@
 <Page loaded="pageLoaded">
-  <ActionBar title="My App" class="action-bar"></ActionBar>
-  <!-- Your UI components go here -->
-  <Label text="Ini adalah aplikasi pertama saya" />
+  <StackLayout>
+    <TextField text="{{ firstname }}" />
+    <TextField text="{{ lastname }}" />
+  </StackLayout>
 </Page>
