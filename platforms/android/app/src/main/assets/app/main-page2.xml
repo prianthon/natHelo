@@ -1,0 +1,6 @@
+<Page>
+  <StackLayout>
+    <Label text="Ini adalah halaman ke-2"/>
+    <Button text="Ke halaman 1" tap="movePage"/>
+  </StackLayout>
+</Page>

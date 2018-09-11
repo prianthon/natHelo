@@ -1,8 +1,5 @@
-var observableModule = require("data/observable");
-
-exports.loaded = function(args) {
-  var page = args.object;
-  var context = new observableModule.Observable();
-  context.set("fullName", "Kang Anton");
-  page.bindingContext = context;
+var frameModule = require("ui/frame");
+exports.movePage = function() {
+  var topmost = frameModule.topmost();
+  topmost.navigate("main-page2");
 }
