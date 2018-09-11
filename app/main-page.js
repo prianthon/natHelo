@@ -1,9 +1,8 @@
-exports.pageLoaded = function(args) {
-  let data = {
-    firstname : "Kang",
-    lastname : "Anton"
-  };
+var observableModule = require("data/observable");
 
-  let page = args.object;
-  page.bindingContext = data;
-};
+exports.loaded = function(args) {
+  var page = args.object;
+  var context = new observableModule.Observable();
+  context.set("fullName", "Kang Anton");
+  page.bindingContext = context;
+}

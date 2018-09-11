@@ -1,6 +1,6 @@
-<Page loaded="pageLoaded">
+<Page loaded="loaded">
   <StackLayout>
-    <TextField text="{{ firstname }}" />
-    <TextField text="{{ lastname }}" />
+    <TextField text="{{ fullName }}" />
+    <TextField text="{{ fullName }}" />
   </StackLayout>
 </Page>
