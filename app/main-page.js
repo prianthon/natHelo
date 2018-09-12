@@ -10,7 +10,13 @@ exports.movePage = function() {
     moduleName: "main-page2",
           context: {
                     datanama : myname
-          }
+          },
+animated: true,
+              transition: {
+                name: "flip",
+                duration: 300,
+                curve: "easeOut"
+              }
   };
   topmost.navigate(navigationEntry);
 }
