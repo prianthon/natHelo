@@ -1,4 +1,8 @@
 var frameModule = require("ui/frame");
+
+exports.kliktap = function() {
+  console.log("Tap berhasil");
+};
 exports.movePage = function() {
   var myname = {
         firstname : "Kang",
