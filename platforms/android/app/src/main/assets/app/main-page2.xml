@@ -1,6 +1,7 @@
-<Page>
+<Page loaded="loaded">
   <StackLayout>
     <Label text="Ini adalah halaman ke-2"/>
+    <Label text="{{ firstname + ' ' + lastname }}" />
     <Button text="Ke halaman 1" tap="movePage"/>
   </StackLayout>
 </Page>

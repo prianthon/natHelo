@@ -1,5 +1,5 @@
 {
-	"time": "Tue Sep 11 2018 12:22:43 GMT+0700 (WIB)",
+	"time": "Wed Sep 12 2018 07:00:27 GMT+0700 (WIB)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
@@ -12,10 +12,10 @@
 		"/Users/prianthon/Documents/nativescript/HelloWorld/app/README.md": "c6d550a2f77eb68587dea464b008d9216fa7790d",
 		"/Users/prianthon/Documents/nativescript/HelloWorld/app/app.css": "c606c92d70995f53d354a74e3d75dfad966b4d41",
 		"/Users/prianthon/Documents/nativescript/HelloWorld/app/app.js": "0163ed8874a99daf48aa643490627e02ee1ed1b0",
-		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page.js": "3582ce1e0923fc2de66237591b3f784c1956a7cd",
+		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page.js": "4a3a4bc8ff423a0a3ec88d48afdd54d9b63376a2",
 		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page.xml": "3dea69fefeb2251ec9489b4a8d058f35246fad90",
-		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page2.js": "6a7db80cf71460d2fede0dbf5b0215227078099a",
-		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page2.xml": "9ff0743f1572485af3d6044a1da61c5811d35777",
+		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page2.js": "e9f21e0a682598dda3d0d976365229de13a61b4e",
+		"/Users/prianthon/Documents/nativescript/HelloWorld/app/main-page2.xml": "abc86dfd30430e852d3cd9c4962e12a11a2ec7a7",
 		"/Users/prianthon/Documents/nativescript/HelloWorld/app/package.json": "946492c4026a4c79ba58da87d3317459382cd839",
 		"/Users/prianthon/Documents/nativescript/HelloWorld/app/images/apple.jpg": "c033a7a48829675b73f5d1db5360ffd53a737e01"
 	}

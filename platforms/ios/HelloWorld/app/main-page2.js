@@ -1,6 +1,6 @@
-var frameModule = require("ui/frame");
 
-exports.movePage = function() {
-  var topmost = frameModule.topmost();
-  topmost.navigate("main-page");
-}
+exports.loaded = function(args) {
+  let page = args.object;
+  let dataContext = page.navigationContext.datanama;
+  page.bindingContext = dataContext;
+};
